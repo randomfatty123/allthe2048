@@ -5,6 +5,10 @@
 - url: http://ov3y.github.io/2048-AI/
   name: 2048 AI
   author: Matt Overlan
+  
+- url: http://erkannarmanli.github.io/2048/
+  name: 2048 Versus
+  author: Erkan Narmanli & Theo Laurent
 
 - url: http://joppi.github.io/2048-3D/
   name: 2048-3D
