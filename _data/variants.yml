@@ -613,3 +613,7 @@
 - url: http://pyongpyong.com/hangul2048/
   name: Hangul 2048
   author: Sangpyo Hong
+
+- url: http://alextaran.net/webgl/TPo2.html
+  name: The Power of Two
+  author: Alexander Taran
