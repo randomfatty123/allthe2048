@@ -94,10 +94,6 @@
   name: 2048DBZ
   author: Gonzalo Gluzman & Matias Garcia Isaia
 
-- url: https://sphere.chronosempire.org.uk/~HEx/8402/
-  name: 8402
-  author: Tom Hargreaves
-
 - url: https://glyphobet.github.io/zero/
   name: zero
   author: Matt Chisholm
@@ -566,10 +562,6 @@
   name: Stochastic 2048
   author: Ena H.
 
-- url: http://silviu.ml/x11
-  name: x^11
-  author: Silviu-Mădălin Lorenţ
-
 - url: http://games.usvsth3m.com/2048/dragonball-enemies-edition/
   name: 2048 DragonBall Enemies Edition
   author: Alessandro Stella
@@ -589,10 +581,6 @@
 - url: http://games.usvsth3m.com/2048/homestuck-edition-159/
   name: 2048 Homestuck Edition
   author: Psytew
-
-- url: http://silviu.ml/trips
-  name: Trips
-  author: Silviu-Mădălin Lorenţ
 
 - url: http://mm2718.github.io/2048-linux/
   name: 2048 Linux edition
@@ -625,3 +613,7 @@
 - url: http://alextaran.net/webgl/TPo2.html
   name: The Power of Two
   author: Alexander Taran
+
+- url: http://2048.anilshanbhag.in/fruity/
+  name: Fruity 2048
+  author: FruitSL
