@@ -79,8 +79,8 @@ hr {
     margin-top: 50px;
 }
 
-.paypal-donate {
-  display: inline-block;
+.adsense {
+  margin-top: 20px;
 }
 
 @media screen and (max-width: 640px) {
