@@ -272,23 +272,23 @@
 
 - url: http://0x0800.github.io/2048-STARWARS/
   name: Star Wars
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-ARMY/
   name: Army
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-CUPCAKES/
   name: Cupcakes
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-TIFFANY/
   name: Tiffany
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://0x0800.github.io/2048-SUPERHEELS/
   name: Super Heels
-  author: 0x0800
+  author: "0x0800"
 
 - url: http://2048game.org/flappy/
   name: Flappy Thirds
@@ -617,3 +617,11 @@
 - url: http://2048.anilshanbhag.in/fruity/
   name: Fruity 2048
   author: FruitSL
+
+- url: http://0x0800.github.io/2048-PANTONE/
+  name: Pantone
+  author: "0x0800"
+
+- url: http://0x0800.github.io/2048-MUNDIAL/
+  name: Mundial
+  author: "0x0800"
