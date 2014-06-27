@@ -1,0 +1,14 @@
+url: www.Colors.com/2048
+name: Colors 2048
+author: Joshua Walter
+2: red
+4: orange
+8: yellow
+16: blue
+32: purple
+64: pink
+128: brown
+256: black
+512: grey
+1024: white
+2048: static
